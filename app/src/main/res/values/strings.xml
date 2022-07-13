@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BBC App</string>
+    <string name="username">Username</string>
+    <string name="my_account">My Account</string>
+    <string name="Username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+</resources>
